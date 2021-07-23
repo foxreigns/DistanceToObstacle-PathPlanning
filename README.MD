@@ -11,18 +11,18 @@ This code implements a class that defines that reference curve
 For example in the image above we want the S and D of the blue point. This would depend on the reference S distance since we want the S value after this reference.
 
 **Case1**
-Reference distance = 0
-S = sqrt(2) + 0.5
+Reference distance = 0 \
+S = sqrt(2) + 0.5 \
 D = 0.5
 
 **Case2**
-Reference distance = 1
-S = sqrt(2) + 0.5
+Reference distance = 1 \
+S = sqrt(2) + 0.5 \
 D = 0.5
 
 **Case3**
-Reference distance = 2
-S = Invalid 
+Reference distance = 2 \
+S = Invalid \
 D = Invalid 
 
 The following are some assumptions I made for this implementation:
