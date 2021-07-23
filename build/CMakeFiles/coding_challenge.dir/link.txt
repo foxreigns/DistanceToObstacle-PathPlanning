@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcoding_challenge.a  CMakeFiles/coding_challenge.dir/src/Angle.cpp.o CMakeFiles/coding_challenge.dir/src/Point2d.cpp.o CMakeFiles/coding_challenge.dir/src/Pose2d.cpp.o CMakeFiles/coding_challenge.dir/src/Vector2d.cpp.o CMakeFiles/coding_challenge.dir/src/Segment2d.cpp.o CMakeFiles/coding_challenge.dir/src/ReferencePoses.cpp.o
+/usr/bin/ranlib libcoding_challenge.a

@@ -1,0 +1,5 @@
+/home/sum/Desktop/StarskyRefPosesChallenge/build/CMakeFiles/rebuild_cache.dir
+/home/sum/Desktop/StarskyRefPosesChallenge/build/CMakeFiles/edit_cache.dir
+/home/sum/Desktop/StarskyRefPosesChallenge/build/CMakeFiles/test.dir
+/home/sum/Desktop/StarskyRefPosesChallenge/build/CMakeFiles/coding_challenge.dir
+/home/sum/Desktop/StarskyRefPosesChallenge/build/CMakeFiles/runUnitTests.dir
