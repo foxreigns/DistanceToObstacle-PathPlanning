@@ -38,7 +38,7 @@ The following are some assumptions I made for this implementation:
 
 ## Helpful Classes
 
-We've included some classes that may be useful when implementing the ReferencePoses class and functions:
+Some classes that may be useful when implementing the ReferencePoses class and functions:
 
 * Angle : Angle in a fixed range (e.g. +- PI)
 * FrenetPoint : 2D point in S and D space
@@ -46,8 +46,6 @@ We've included some classes that may be useful when implementing the ReferencePo
 * Pose2d : 2D point with orientation
 * Segment2d : Line segment between two points
 * Vector2d : Vector in metric space
-
-##  ADDED BY ME
 * Params : Required distance parameters
 * Copy constructor in Vector2d
 * Operator overloading for '-','*','='in Vector2d
